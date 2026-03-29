@@ -1,0 +1,8 @@
+streamlit
+spleeter
+ffmpeg-python
+pydub
+numpy
+torch
+librosa
+soundfile
